@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<version>
+    <versionCode>2</versionCode>
+    <versionName>0.0.2</versionName>
+    <downloadURL></downloadURL>
+    <description>
+        <item>1.To optimize the user interface (UI).</item>
+        <item>2.Enhance the usage experience.</item>
+    </description>
+    <walls>
+        <wall>
+            <imageId>1409646070510</imageId>
+            <imageTitle>Baidu</imageTitle>
+            <imageSrc>http://www.baidu.com/img/bdlogo.png</imageSrc>
+            <imageClickToUrl>http://www.baidu.com/</imageClickToUrl>
+            <imageDescription>This is an url for baidu.</imageDescription>
+            <imageExpireTime>2014-11-11 00:00:00</imageExpireTime>
+        </wall>
+        <wall>
+            <imageId>1409646083110</imageId>
+            <imageTitle>Google</imageTitle>
+            <imageSrc>https://www.google.com/images/srpr/logo11w.png</imageSrc>
+            <imageClickToUrl>https://www.google.com/?gws_rd=ssl</imageClickToUrl>
+            <imageDescription>This is an url for google.</imageDescription>
+            <imageExpireTime>2014-11-11 00:00:00</imageExpireTime>
+        </wall>
+    </walls>
+</version>
